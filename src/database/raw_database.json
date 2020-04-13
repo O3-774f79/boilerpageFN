@@ -1,0 +1,92 @@
+[
+    {
+        "district": "คลองท่อมเหนือ",
+        "amphoe": "คลองท่อม",
+        "province": "กระบี่",
+        "zipcode": 81120,
+        "district_code": 810402,
+        "amphoe_code": 8104,
+        "province_code": 81
+    },
+    {
+        "district": "คลองท่อมใต้",
+        "amphoe": "คลองท่อม",
+        "province": "กระบี่",
+        "zipcode": 81120,
+        "district_code": 810401,
+        "amphoe_code": 8104,
+        "province_code": 81
+    },
+    {
+        "district": "คลองพน",
+        "amphoe": "คลองท่อม",
+        "province": "กระบี่",
+        "zipcode": 81170,
+        "district_code": 810403,
+        "amphoe_code": 8104,
+        "province_code": 81
+    },
+    {
+        "district": "ทรายขาว",
+        "amphoe": "คลองท่อม",
+        "province": "กระบี่",
+        "zipcode": 81170,
+        "district_code": 810404,
+        "amphoe_code": 8104,
+        "province_code": 81
+    },
+    {
+        "district": "พรุดินนา",
+        "amphoe": "คลองท่อม",
+        "province": "กระบี่",
+        "zipcode": 81120,
+        "district_code": 810406,
+        "amphoe_code": 8104,
+        "province_code": 81
+    },
+    {
+        "district": "ห้วยน้ำขาว",
+        "amphoe": "คลองท่อม",
+        "province": "กระบี่",
+        "zipcode": 81120,
+        "district_code": 810405,
+        "amphoe_code": 8104,
+        "province_code": 81
+    },
+    {
+        "district": "test1",
+        "amphoe": "test1",
+        "province": "test1",
+        "zipcode": 10001,
+        "district_code": 10001,
+        "amphoe_code": 10001,
+        "province_code": 10001
+    },
+    {
+        "district": "test13",
+        "amphoe": "test1",
+        "province": "test1",
+        "zipcode": 10001,
+        "district_code": 100013,
+        "amphoe_code": 10001,
+        "province_code": 10001
+    },
+    {
+        "district": "test2",
+        "amphoe": "test2",
+        "province": "test1",
+        "zipcode": 10002,
+        "district_code": 10002,
+        "amphoe_code": 10002,
+        "province_code": 10001
+    },
+    {
+        "district": "test3",
+        "amphoe": "test3",
+        "province": "test1",
+        "zipcode": 10003,
+        "district_code": 10003,
+        "amphoe_code": 10003,
+        "province_code": 10001
+    }
+]
